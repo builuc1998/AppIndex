@@ -39,4 +39,4 @@ all:
 	@rm -rf build/layout
 
 	@echo TrollStore .tipa written to build/AppIndexTrollStore.tipa
-	@echo Jailbroken .deb written to build/AppIndex.deb
+	@echo Jailbroken hihi .deb written to build/AppIndex.deb
